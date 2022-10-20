@@ -15,7 +15,7 @@ public class HomeworkControllerTest {
 
     @Test
     public void testSelfIntroductions() {
-        assertNotNull(homework.selfIntroductions("heykakao", 1));
+        assertNotNull(homework.selfIntroductions("heykakao", 23));
     }
 
     @Test
