@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="gcu.homework.homework.HomeworkControllerTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2022-10-20T14:15:24" hostname="Chaeyoonui-MacBookPro.local" time="0.007">
+<testsuite name="gcu.homework.homework.HomeworkControllerTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-10-20T14:21:31" hostname="Chaeyoonui-MacBookPro.local" time="0.007">
   <properties/>
-  <testcase name="testHello()" classname="gcu.homework.homework.HomeworkControllerTest" time="0.003"/>
-  <testcase name="testSelfIntroductions()" classname="gcu.homework.homework.HomeworkControllerTest" time="0.003"/>
-  <testcase name="testContact()" classname="gcu.homework.homework.HomeworkControllerTest" time="0.0"/>
+  <testcase name="welcome()" classname="gcu.homework.homework.HomeworkControllerTest" time="0.007"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>

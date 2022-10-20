@@ -22,4 +22,20 @@ public class HomeworkControllerTest {
     public void testContact() {
         assertNotNull(homework.contact("010-1004-1004"));
     }
+
+    @Test
+    void welcome() {
+    }
+
+    @Test
+    void hello() {
+    }
+
+    @Test
+    void selfIntroductions() {
+    }
+
+    @Test
+    void phone() {
+    }
 }
